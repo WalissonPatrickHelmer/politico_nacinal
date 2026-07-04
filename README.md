@@ -1,0 +1,2 @@
+# politico_nacinal
+Segue uma descrição com cerca de **350 caracteres**, ideal para o GitHub:  > **Landing Page institucional para um candidato político fictício, desenvolvida com foco em design moderno, responsividade e experiência do usuário. O projeto apresenta animações suaves entre as seções, galeria, área de propostas, notícias, contato via WhatsApp, integração com redes sociais e layout profissional inspirado em campanhas políticas de alto padrão.**
